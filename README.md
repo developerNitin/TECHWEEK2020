@@ -1,4 +1,4 @@
-# TECHWEEK2020
+# OFFICIAL TECHWEEK2020
 
 <img style="width: 50%" src="https://github.com/developerNitin/TECHWEEK2020/blob/master/techweekLogo.svg"></img> <br/>
 <img src="https://github.com/developerNitin/TECHWEEK2020/blob/master/codingCompetitionPoster.svg"></img> <br/>
